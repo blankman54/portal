@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    text-align: center;
+   
+}
+
+h1 {
+    color:white;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+h2 {
+    color: white;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    color: white;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    background-color: darkorchid;
+    color: black;
+}
+
+ul {
+    color: white;
+}
+
+.jobBlocks {
+    background-color: rgba(105, 105, 105, 0.2);
+     
+}
+
+#spaceID {
+    margin-bottom: 3rem;
+}
